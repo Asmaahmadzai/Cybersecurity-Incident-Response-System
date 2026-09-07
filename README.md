@@ -47,16 +47,3 @@ P) Print reports
 Q) Quit
 
 Users can create incidents, resolve them, and generate reports containing incident details and event history.
-
-## Application Demo
-### Creating Incidents
-![Creating malware and phishing incidents](application-demo4.png)
-
-### Resolving an Incident
-![Resolving a cybersecurity incident](application-demo2.png)
-
-### Generated Incident Reports
-![Generated malware and phishing incident reports](application-demo3.png)
-
-### Input Validation
-![Invalid incident ID and command handling](application-demo1.png)
